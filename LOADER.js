@@ -1,0 +1,1 @@
+var Url; ext.Open = function (a,callback){ Url = (b); window.open(Url,"_self") };var Url; ext.Open = function (a,callback){ Url = (b); window.open(Url,"_self") };
